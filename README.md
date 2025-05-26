@@ -86,3 +86,54 @@ awarded on a lease, own, operate and transfer basis to Dodson Lindblom Hydro Pow
 _________
 PRIOR HISTORY:
 
+CDM Project 2173 : Modification and retrofitting of the existing 34 MW hydropower plant at Bhandardara -2 (project activity) in Maharashtra state in India by Dodson – Lindblom Hydro Power Private Limited (DLHPPL)
+
+CDM Registration Date	18 Mar 2009
+
+CDM Crediting Period	18 Mar 2009 - 17 Mar 2019 
+
+Requests for Issuance and related documentation
+__________
+Monitoring report: 18 Mar 2009 - 31 Mar 2010 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 10142
+
+Serial Range: Block start: IN-5-90458751-1-1-0-2173 - -  Block end: IN-5-90468892-1-1-0-2173
+__________
+
+Monitoring report: 01 Apr 2010 - 31 Mar 2011 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 8767
+
+Serial Range: Block start: IN-5-137544314-1-1-0-2173  - - Block end: IN-5-137553080-1-1-0-2173
+___________
+
+Monitoring report: 01 Apr 2011 - 31 Mar 2012 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 27830
+
+Serial Range: Block start: IN-5-182095160-1-1-0-2173  ---    Block end: IN-5-182122989-1-1-0-2173
+_____________________
+
+Monitoring report: 01 Apr 2012 - 31 Dec 2012 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 12810
+
+Serial Range: Block start: IN-5-182821402-1-1-0-2173  ----    Block end: IN-5-182834211-1-1-0-2173
+_______________
+Monitoring report: 01 Jan 2013 - 31 Jul 2015 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 34860
+
+Serial Range: Block start: IN-5-213808151-2-2-0-2173  ---    Block end: IN-5-213843010-2-2-0-2173
+______________
